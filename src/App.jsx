@@ -12,6 +12,8 @@ function App() {
       <LuckySpinner />
       <ToDoList />
       <Footer />
+      {/* //TESTING */}
+      {/* DEV */}
     </>
   );
 }
